@@ -1,0 +1,15 @@
+# dataset root directory
+path: datasets
+
+# train image directory
+train: images/train
+
+# validation image directory
+# use the non-trained images to see the performance of the model
+# just test the model on these images and not use them for training again
+val: images/val
+
+names:
+  0: car
+  1: person
+  2: traffic_light
