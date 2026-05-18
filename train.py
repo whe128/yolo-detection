@@ -15,6 +15,10 @@ def main():
         yolov8m -> medium, balance between speed and accuracy
         yolov8l -> large, slow but accurate
         yolov8x -> extra large, slowest but most accurate
+
+        yolov8-seg.pt" -> segmentation model, can give the mask of each object
+        yolov8-pose.pt" -> pose estimation model, can give the joint points of each object
+
     '''
 
     # start training
