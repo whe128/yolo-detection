@@ -10,6 +10,8 @@ train: images/train
 val: images/val
 
 names:
-  0: car
-  1: person
-  2: traffic_light
+  0: bottle
+  1: knife
+  2: pen
+  3: scissors
+  4: watch
